@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "スーパー類",
+  "base_artist": "原口沙輔",
+  "createdAt": "2026-01-13T14:21:22.967223Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "スーパー類",
+      "artist": "原口沙輔",
+      "has_synced": false,
+      "path": "select/pl_01_スーパー類_原口沙輔.txt"
+    }
+  ]
+}
